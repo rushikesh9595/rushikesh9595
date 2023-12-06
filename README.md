@@ -9,11 +9,11 @@ Learning new has always been my priority that's why I decided to pursue Masters 
 ## My Technical skills
 
 #### Data Visualization Tools : Tableau, Power BI
-Programming Languages :    Python, MySQL
-Database :                 MySQL
-Python Editor :            Jupyter notebook
-Python Libraries :         Pandas, NumPy, Seaborn, Matplotlib, SKlearn   
-Machine Learning Models :  Supervised (Regression : Linear, Ridge, Lasso, Polynomial; Classification : Logistic, KNN, SVM, Decision Tree, Random Forest), Unsupervised (Clustering : K-Means)
+#### Programming Languages :    Python, MySQL
+#### Database :                 MySQL
+#### Python Editor :            Jupyter notebook
+#### Python Libraries :         Pandas, NumPy, Seaborn, Matplotlib, SKlearn   
+#### Machine Learning Models :  Supervised (Regression : Linear, Ridge, Lasso, Polynomial; Classification : Logistic, KNN, SVM, Decision Tree, Random Forest), Unsupervised (Clustering : K-Means)
 
 ## Contact Information
 
