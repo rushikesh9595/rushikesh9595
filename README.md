@@ -19,3 +19,8 @@ Learning new has always been my priority that's why I decided to pursue Masters 
 
 #### E-mail  : rushikeshbarwade@gmail.com
 #### Phone :   +91-9156082335
+
+## My social profiles
+
+#### LinkedIn : https://www.linkedin.com/in/rushikesh-sanjay-barwade-98283a14b/
+#### GitHub :   https://github.com/rushikesh9595
