@@ -4,7 +4,7 @@ Hi, I’m Rushikesh Barwade, a data fanatic with 3+ years of strong experience i
 
 ## What interests me?
 
-Learning new has always been my priority that's why I decided to pursue Masters in Data Science where there are infinite learning opportunities and alsoan opportunity become one among few.
+Learning new has always been my priority that's why I decided to pursue Masters in Data Science where there are infinite learning opportunities and also an opportunity to become one among few.
 
 ## My Technical skills
 
@@ -17,5 +17,5 @@ Learning new has always been my priority that's why I decided to pursue Masters 
 
 ## Contact Information
 
-E-mail  : rushikeshbarwade@gmail.com
-Phone :   +91-9156082335
+#### E-mail  : rushikeshbarwade@gmail.com
+#### Phone :   +91-9156082335
