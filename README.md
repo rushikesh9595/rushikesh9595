@@ -8,7 +8,7 @@ Learning new has always been my priority that's why I decided to pursue Masters 
 
 ## My Technical skills
 
-### Data Visualization Tools : Tableau, Power BI
+#### Data Visualization Tools : Tableau, Power BI
 Programming Languages :    Python, MySQL
 Database :                 MySQL
 Python Editor :            Jupyter notebook
