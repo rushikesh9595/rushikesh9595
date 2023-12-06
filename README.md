@@ -5,16 +5,13 @@ Hi, I’m Rushikesh Barwade, a data fanatic with 3+ years of strong experience i
 Learning new has always been my priority that's why I decided to pursue Masters in Data Science where there are infinite learning opportunities and alsoan opportunity become one among few.
 
 ## My Technical skills
-
-## Data Visualization Tools : Tableau, Power BI
-## Programming Languages :    Python, MySQL
-## Database :                 MySQL
-## Python Editor :            Jupyter notebook
-## Python Libraries :         Pandas, NumPy, Seaborn, Matplotlib, SKlearn   
-## Machine Learning Models :  Supervised (Regression : Linear, Ridge, Lasso, Polynomial; Classification : Logistic Regression, KNN, SVM, Decision Tree, Random Forest), Unsupervised 
-                              (Clustering : K-Means)
+Data Visualization Tools : Tableau, Power BI
+Programming Languages :    Python, MySQL
+Database :                 MySQL
+Python Editor :            Jupyter notebook
+Python Libraries :         Pandas, NumPy, Seaborn, Matplotlib, SKlearn   
+Machine Learning Models :  Supervised (Regression : Linear, Ridge, Lasso, Polynomial; Classification : Logistic, KNN, SVM, Decision Tree, Random Forest), Unsupervised (Clustering : K-Means)
 
 ## Contact Information
-
-## E-mail  : rushikeshbarwade@gmail.com
-## Phone :   +91-9156082335
+E-mail  : rushikeshbarwade@gmail.com
+Phone :   +91-9156082335
