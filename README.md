@@ -6,7 +6,7 @@ Hi, I’m Rushikesh Barwade, a data fanatic with 3+ years of strong experience i
 
 Learning new has always been my priority that's why I decided to pursue Masters in Data Science where there are infinite learning opportunities and also an opportunity to become one among few.
 
-## My Tech stack
+## My Tech stack 
 
 #### Data Visualization Tools : Tableau, Power BI, Excel charts
 #### Programming Languages :    Python, SQL
