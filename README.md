@@ -11,7 +11,7 @@ Learning new has always been my priority that's why I decided to pursue Masters 
 #### Data Visualization Tools : Tableau, Power BI, Excel charts
 #### Programming Languages :    Python, SQL
 #### Database :                 MySQL
-#### Python Libraries :         Pandas, NumPy, Seaborn, Matplotlib, SKlearn   
+#### Python Libraries :         Pandas, NumPy, Seaborn, Matplotlib, Plotly, SKlearn   
 #### Machine Learning Models :  Supervised (Regression : Linear, Ridge, Lasso, Polynomial; Classification : Logistic, KNN, SVM, Decision Tree, Random Forest), Unsupervised (Clustering : K-Means)
 #### Other skills :             Artificial Intelligence (AI), Neural Networks, NLP, Deep Learning
 
